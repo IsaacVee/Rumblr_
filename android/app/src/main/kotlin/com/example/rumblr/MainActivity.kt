@@ -1,0 +1,5 @@
+package com.example.rumblr
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
